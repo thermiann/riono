@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-02-18T21:50:24+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Coding Aja Dulu Error Tinggal tidur</title><subtitle>Website ini di uji oleh saya dan saya masih bingung dalam beberapa navigasi karna harus  berdapatasi menggunakan engine code baru hehehehe aman aja ya guys ya.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2024/02/14/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-02-14T12:12:54+07:00</published><updated>2024-02-14T12:12:54+07:00</updated><id>http://localhost:4000/jekyll/update/2024/02/14/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2024/02/14/welcome-to-jekyll.html"><![CDATA[<head>
+	<link href="../assets/css/bootstrap.css" rel="stylesheet" />
+</head>
+<html lang="en">
+<div class="text-center">
+	<h2> KE TENGAH BISA GAK!!!</h2>
+<img src="/assets/818.png" class="text-center" title="PASUKAN BRUTAL" width="100" height="100" /> </div>
+  <audio controls="" class="text-center">
+  <iframe width="853" height="480" src="https://www.youtube.com/embed/NgqnRiCPN-Q" title="pilihan hatiku - lavina(speed up+lyrics)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+  </audio>
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/NgqnRiCPN-Q" title="pilihan hatiku - lavina(speed up+lyrics)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+		<br />
+
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+
+</html>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[KE TENGAH BISA GAK!!!]]></summary></entry><entry><title type="html">YUSUF RAHMAN HAKIM</title><link href="http://localhost:4000/jekyll/update/2024/02/14/riono-asu.html" rel="alternate" type="text/html" title="YUSUF RAHMAN HAKIM" /><published>2024-02-14T12:12:54+07:00</published><updated>2024-02-14T12:12:54+07:00</updated><id>http://localhost:4000/jekyll/update/2024/02/14/riono-asu</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2024/02/14/riono-asu.html"><![CDATA[<div style="">
+ 	<img src="../assets/818.png" alt="PASUKAN BRUTAL" width="25%" height="25%" title="PASUKAN BRUTAL" />
+</div>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">HOME</title><link href="http://localhost:4000/ujicoba/2024/02/14/HOME.html" rel="alternate" type="text/html" title="HOME" /><published>2024-02-14T12:12:54+07:00</published><updated>2024-02-14T12:12:54+07:00</updated><id>http://localhost:4000/ujicoba/2024/02/14/HOME</id><content type="html" xml:base="http://localhost:4000/ujicoba/2024/02/14/HOME.html"><![CDATA[<p>Website ini di uji oleh saya dan saya masih bingung dalam beberapa navigasi karna harus berdapatasi menggunakan engine code baru hehehehe aman aja ya guys ya</p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name>yusuf rahman hakim</name></author><category term="UJICOBA" /><summary type="html"><![CDATA[Website ini di uji oleh saya dan saya masih bingung dalam beberapa navigasi karna harus berdapatasi menggunakan engine code baru hehehehe aman aja ya guys ya]]></summary></entry><entry><title type="html">Pemandangan Kota Magelang</title><link href="http://localhost:4000/jekyll/update/2024/02/14/pemandangan-kota-magelang.html" rel="alternate" type="text/html" title="Pemandangan Kota Magelang" /><published>2024-02-14T12:12:54+07:00</published><updated>2024-02-14T12:12:54+07:00</updated><id>http://localhost:4000/jekyll/update/2024/02/14/pemandangan-kota-magelang</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2024/02/14/pemandangan-kota-magelang.html"><![CDATA[<div class="text-center">
+<h2 class="text-danger"><b>Pemandangan Kota Magelang</b> </h2>
+ </div>
+<div id="carouselExampleIndicators" class="carousel slide">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/assets/pemandangan.jpg" class="d-block w-100" alt="..." />
+    </div>
+    <div class="carousel-item">
+      <img src="/assets/pemandangan1.jpeg" class="d-block w-100" alt="..." />
+    </div>
+    <div class="carousel-item">
+      <img src="/assets/pemandangan2.jpeg" class="d-block w-100" alt="..." />
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+<hr />]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Pemandangan Kota Magelang Previous Next]]></summary></entry><entry><title type="html">Test</title><link href="http://localhost:4000/2024/02/14/test.html" rel="alternate" type="text/html" title="Test" /><published>2024-02-14T00:00:00+07:00</published><updated>2024-02-14T00:00:00+07:00</updated><id>http://localhost:4000/2024/02/14/test</id><content type="html" xml:base="http://localhost:4000/2024/02/14/test.html"><![CDATA[]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry></feed>
